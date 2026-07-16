@@ -1,0 +1,9 @@
+# High Signal
+
+Evidence-first research and data products for finding what is worth knowing.
+
+- **[High Signal](https://github.com/High-Signal-App/high-signal)** — a versioned signal log for AI infrastructure and semiconductors · [highsignal.app](https://highsignal.app)
+- **[Research Papers](https://github.com/High-Signal-App/research-papers)** — 488k-paper academic data platform with semantic search, citation graphs, and peer-review signals
+- **[drank](https://github.com/High-Signal-App/drank)** — browser-based Ahrefs Domain Rating research
+
+Built by [Sarthak Agrawal](https://github.com/sarthakagrawal927).
