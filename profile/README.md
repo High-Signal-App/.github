@@ -1,5 +1,7 @@
 # High Signal
 
+**Portfolio organization** — a growing family of products for finding, evaluating, and organizing useful signal.
+
 Evidence-first research and data products for finding what is worth knowing.
 
 - **[High Signal](https://github.com/High-Signal-App/high-signal)** — a versioned signal log for AI infrastructure and semiconductors · [highsignal.app](https://highsignal.app)
