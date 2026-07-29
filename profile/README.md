@@ -1,11 +1,14 @@
-# High-Signal-App
+# High Signal
 
 **Daily synthesized intelligence and research infrastructure.**
 
-High-Signal-App builds products for operators and investors who want
+High Signal builds products for operators and investors who want
 high-signal reads instead of raw feed noise. Our flagship is a daily
 composed brief with inline hit-rates, backed by a real ingest pipeline
 and a public track record.
+
+Created and maintained by [Sarthak Agrawal](https://sarthakagrawal.dev) as
+part of his independent Foundry product fleet.
 
 ## What we ship
 
@@ -25,7 +28,7 @@ and a public track record.
 
 ## Fleet hub
 
-HiSignal / High Signal is one of the four spotlight products on Sarthak's
+High Signal is one of the four spotlight products on Sarthak's
 personal landing page. The broader fleet directory lives at [SaaS Maker](https://sassmaker.com).
 
 High-Signal-App is part of the [Foundry fleet](https://sassmaker.com) — a
